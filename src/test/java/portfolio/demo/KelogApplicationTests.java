@@ -9,5 +9,7 @@ class KelogApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	"hi dong"
 
 }
